@@ -1,0 +1,38 @@
+#include <stdio.h>. Сначала придаточные
+
+Строка не длиннее 75 символов
+Указатель слитно с Переменной
+
+Скобки условия касаются значений if(i....o)
+
+
+Float b = 4.05;
+Int a = (int)b = 4;
+Float(int)b. == b
+
+
+double variance(int *a, int n) {.    - У НАС НАЗВАНИЕ совпадает с функцией
+  double variance = 0;
+  double elem = 0;     - Ее можно было бы инициализировать прямо в цикле/ 
+  for (int i = 0; i < n; i++) {
+    elem = (double)*(a + i) - (double)mean(a, n);
+    elem *= elem;
+    variance += elem;
+  }
+  variance /= n;
+  return variance;
+}
+
+
+Цикл
+{
+
+}
+
+Функция {
+
+
+}
+
+
+Если условие не сложное и без скобок- то можно в одну строку
